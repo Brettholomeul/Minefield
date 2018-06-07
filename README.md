@@ -2,6 +2,7 @@
 A simple java game where the player navigates through an ASCII minefield using console commands.
 
 ====DETAILS====
+
 The program will build a 10x10 grid of characters " * " and "O". 
 Asteriks represent mines in the field and have a 25% chance of occuring at any given space.
 "O" represents a free space and has a 75% chance of occuring.
